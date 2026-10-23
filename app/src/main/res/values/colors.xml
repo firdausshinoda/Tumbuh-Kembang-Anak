@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greenPrimary">#237A62</color>
+    <color name="greenSoft">#E6F4ED</color>
+    <color name="greenDark">#203B32</color>
+    <color name="grayPrimary">#718078</color>
+    <color name="graySoft">#E5EAE6</color>
+    <color name="bluePrimary">#347FA9</color>
+    <color name="blueSoft">#E8F5FC</color>
+    <color name="orangePrimary">#B66B30</color>
+    <color name="orangeSoft">#FFF2E7</color>
+    <color name="purplePrimary">#5067B5</color>
+    <color name="purpleSoft">#F0F3FF</color>
+    <color name="pinkPrimary">#A34D84</color>
+    <color name="pinkSoft">#F8EAF4</color>
+    <color name="indigoPrimary">#347FA9</color>
+    <color name="indigoSoft">#EAF3F8</color>
+    <color name="caramelBrownPrimary">#B66B2F</color>
+    <color name="caramelBrownSoft">#FFF2E7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bgRoot">#F4F7F4</color>
+    <color name="bg_cardView">#FFF</color>
+</resources>
